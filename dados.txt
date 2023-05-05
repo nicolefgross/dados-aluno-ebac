@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Nicole
+-Profissão: Professora de Inglês
+-Cidade: Porto Alegre/RS
+-O que faz nas horas vaga: Brinco com a minha cachorra, como sushi e jogo videogame
+-Feedback sobre o curso Qualidade de Software: Estou adorando o curso, sinto que realmente estou aprendendo e os exercícios são sempre desafiadores.
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é bem intuitiva, e fácil de usar. Eu fui convidada para testar um novo layout e não curti muito, achei que tudo estava em uma proporção muito grande e achei um pouco mais díficil de mexer, preferi a versão atual.
 
 Obrigado!!!
 
